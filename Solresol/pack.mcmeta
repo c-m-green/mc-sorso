@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 7,
+		"description": "Modern Solresol Pack"
+	},
+  "language": {
+    "srs_world": {
+      "name": "Modern Solresol",
+      "region": "World",
+      "bidirectional": false
+    }
+  }
+}
