@@ -4,6 +4,11 @@
 		"description": "Modern Solresol Pack"
 	},
   "language": {
+    "sorso_world": {
+      "name": "Modern Solresol",
+      "region": "World",
+      "bidirectional": false
+    },
     "sorsos_world": {
       "name": "Modern Symmetrical Solresol",
       "region": "World",
